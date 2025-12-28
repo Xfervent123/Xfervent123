@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: Xfervent123
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#7F3FBF&color_dots=#F05032&color_empty=#282d38&color_contribution=#282d38;#0e4429;#006d32;#26a641;#39d353
+            dist/github-contribution-grid-snake.svg?color_snake=#ffffff&color_dots=#ffffff&color_empty=#2d333b&color_contribution=#2d333b;#0e4429;#26a641;#39d353
 
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
