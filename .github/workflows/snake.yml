@@ -1,30 +1,25 @@
 name: Generate Snake
 
 on:
-  # Запуск каждые 12 часов
   schedule:
     - cron: "0 */12 * * *" 
-  
-  # Возможность запустить кнопку вручную
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    permissions:
+    permissions: 
       contents: write
-
+    
     steps:
       - uses: actions/checkout@v3
 
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: xfervent123
+          github_user_name: Xfervent123
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#7F3FBF&color_dots=#F05032&color_empty=#282d38&color_contribution=#282d38;#0e4429;#006d32;#26a641;#39d353
 
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
