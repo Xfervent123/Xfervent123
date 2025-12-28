@@ -11,6 +11,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # ВАЖНО: Разрешаем боту менять файлы в репозитории
     permissions:
       contents: write
 
@@ -22,7 +24,8 @@ jobs:
         with:
           github_user_name: xfervent123
           outputs: |
-            dist/github-contribution-grid-snake-light.svg
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
