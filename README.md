@@ -1,9 +1,7 @@
 <div align="center">
   
-  <!-- Анимированный заголовок -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Dmitry;Unity+Developer+%F0%9F%8E%AE;Python+Enthusiast+%F0%9F%90%8D;UrFU+Student+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=white&center=true&vCenter=true&width=435&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Dmitry;Unity+Developer+%F0%9F%8E%AE;Python+Enthusiast+%F0%9F%90%8D;UrFU+Student+%F0%9F%8E%93" alt="Typing SVG" />
 
-  <!-- Баннер с иконками технологий (визуальный разделитель) -->
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=unity,cs,py,git,github,vscode,postgres&theme=dark" />
@@ -63,16 +61,9 @@
 
 ---
 
-<!-- Эта анимация показывает активность твоих коммитов -->
 <div align="center">
-  <img src="https://github-readme-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/xfervent123/xfervent123/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 </div>
-
-<!-- 
-ПРИМЕЧАНИЕ: Чтобы змейка работала, нужно настроить GitHub Actions.
-Если пока сложно, можно удалить блок выше.
-Но для "лучшего" профиля - это маст-хэв. См. инструкцию в конце чата.
--->
 
 ---
 
