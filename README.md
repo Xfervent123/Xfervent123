@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=white&center=true&vCenter=true&width=435&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Dmitry;Unity+Developer+%F0%9F%8E%AE;Python+Enthusiast+%F0%9F%90%8D;UrFU+Student+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://files.catbox.moe/glf5my.gif" alt="GIF" width="100%"/>
 
   <p align="center">
     <a href="https://skillicons.dev">
