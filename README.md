@@ -2,11 +2,6 @@
   
   <img src="https://files.catbox.moe/glf5my.gif" alt="GIF" width="100%"/>
 
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=unity,cs,py,git,github,vscode,postgres&theme=dark" />
-    </a>
-  </p>
 </div>
 
 <div align="center">
